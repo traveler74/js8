@@ -1,0 +1,26 @@
+div {
+    background-color: #04e824;
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.animal-image {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin: 20px;
+}
+
+.food-image {
+    width: 180px;
+    height: 180px;
+    display: inline-block;
+    cursor: move;
+    margin: 25px;
+}
+
+button{
+    margin-left: 620px;
+    margin-top: 10px;
+}
